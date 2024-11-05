@@ -1,2 +1,0 @@
-Ahora que la carpeta archivos no está vacía sí permite realizar commits, esto debido a que cuando no contenía nada, Git la ignoraba al considerar que no habia cambios que era necesario registrar 
-

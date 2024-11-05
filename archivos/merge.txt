@@ -1,0 +1,2 @@
+El problema con la carpeta archivos es que al estar vacía Git la ignoraba y no se podia realizar el commit. 
+Al añadir el archivo respuesta, se puede hacer sin problemas. 

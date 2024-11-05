@@ -1,3 +1,8 @@
 Nombre: Andrés Felipe Guerra Amaris
 Edad: 18 años 
 Aspiraciones: Aprender sobre el paradigma de la programación orientada a objetos y sus aplicaciones. 
+El problema con la carpeta archivos es que al estar vacía Git la ignoraba y no se podia realizar el commit. 
+Al añadir el archivo respuesta, se puede hacer sin problemas. 
+
+Es importante tener cuidado con la modificacion de un archivo desde diferentes ubicaciones ya que es posible que los cambios
+hechos por los desarrollaodres no sean compatibles entre sí y generen conflictos al intentar añadirlos al repositorio de GitHub. 

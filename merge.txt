@@ -1,3 +1,0 @@
-Nombre: Andrés Felipe Guerra Amaris
-Edad: 18 años 
-Aspiraciones: Aprender sobre el paradigma de la programación orientada a objetos y sus aplicaciones. 

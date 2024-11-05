@@ -1,4 +1,2 @@
-Nombre: Andrés Felipe Guerra Amaris. 
-Edad: 18 años 
-Aspiraciones: Aprender y dominar el paradigma de la programación orientada a objetos y su uso en el desarrollo de software. 
+Ahora que la carpeta archivos no está vacía sí permite realizar commits, esto debido a que cuando no contenía nada, Git la ignoraba al considerar que no habia cambios que era necesario registrar 
 
